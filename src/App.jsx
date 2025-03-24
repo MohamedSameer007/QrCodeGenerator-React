@@ -50,7 +50,7 @@ return (
           <button className="generate-button" disabled={loading} onClick={generateQR}>Generate QR Code</button>
           <button className="download-button" onClick={downloadQR}>Download QR Code</button>
       </div>
-      <p className="footer">Designed By <a href="#">Sameer</a></p>
+      <p className="footer">Designed By <a href="#">00</a></p>
   </div>
 )
 }
